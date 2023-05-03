@@ -1,1 +1,1 @@
-Hola, soy Teo Gallego del curso K1051 y utilice el compilador gcc.
+Version del compilador: gcc 12.2.0
